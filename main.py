@@ -36,11 +36,11 @@ ____/______/______/______/______/_____"=.o|o_.--""___/______/______/______/____
             print("You found the treasure!! You win!")
         elif option3 == "second":
             print(
-                "Soon after you enter the gate a dragon appears.It ends quickly. Game Over."
+                "Soon after you enter the gate a dragon appears! It ends quickly. Game Over."
             )
         else:
             print(
-                "You step through the gate only to feel the ground beneath you give way. It's a long way down. Game Over."
+                "You step through the gate only to feel the ground beneath you give way! It's a long way down.. Game Over."
             )
 
     else:
