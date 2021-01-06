@@ -4,7 +4,7 @@ option1 = input(
     "At a crossroad. Do you go left or right? Type 'left or 'right': ")
 if option1 == "left":
     option2 = input(
-        "You find a lake.Do you wait for a boat or swim across? Type 'wait'or 'swim': "
+        "You arrive at a lake.Do you wait for a boat or swim across? Type 'wait'or 'swim': "
     )
     if option2 == "wait":
         option3 = input(
