@@ -49,5 +49,5 @@ ____/______/______/______/______/_____"=.o|o_.--""___/______/______/______/____
         )
 else:
     print(
-        "As you traverse through a rocky path you feel a sharp pain in your ankle. You look down, catch a glimpse of a viper,and realize you've been bitten. You won't make it very far. Game Over. "
+        "As you traverse through a rocky path you feel a sharp pain in your ankle. You look down, catch a glimpse of a viper,and realize you've been bitten. You don't make it very far. Game Over. "
     )
