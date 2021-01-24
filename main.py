@@ -45,7 +45,7 @@ ____/______/______/______/______/_____"=.o|o_.--""___/______/______/______/____
 
     else:
         print(
-            "Dark shapes appear in the water around you. Something brushes against you..then you feel the force of teeth sink into you as you are pulled under. Game Over."
+            "Darkness appears in the water around you. Something brushes against you..then you feel the force of teeth sink into you as you are pulled under. Game Over."
         )
 else:
     print(
